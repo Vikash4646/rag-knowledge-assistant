@@ -78,7 +78,7 @@ diagnostic-assistant-rag/
 
 ## Installation & Setup
 
-git clone https://github.com/Vikash4646/diagnostic-assistant-rag.git
+git clone https://github.com/Vikash4646/rag-knowledge-assistant.git
 cd diagnostic-assistant-rag
 pip install -r requirements.txt
 streamlit run app.py
